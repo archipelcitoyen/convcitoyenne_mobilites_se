@@ -12,7 +12,7 @@
 - [Foire aux questions](##foire-aux-questions)
 
 
-# Une Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain {#une-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain}
+# Une Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain
 
 Depuis plus d’une dizaine d’années, le projet de Jonction Est soulève des questions et objections légitimes de la part de riverains (associations de quartier), d’associations (2P2R, Autate), de militants écologistes (Amis de la Terre, …).  
 Associations et collectifs se mobilisent, interpellent les éluEs, militent… mais ne parviennent pas à se faire entendre. Le projet est sur des rails comme si rien ne pouvait objecter à construire une nouvelle infrastructure venant balafrer deux parcs naturels, pensée dans les années 80… et devenue inutile.  
@@ -23,7 +23,8 @@ Nous lançons une Convention Citoyenne…
 … et nous proposons de prendre le problème par le bon bout : les mobilités sur le Sud-Est Toulousain (raisonner besoin et pas infrastructure).  
 Cette initiative prise par Archipel Citoyen répond à une urgence : sortir des clivages et de l’impasse démocratique qui produit de la désespérance et un repli sur des positions identitaires mortifères.
 
-# Une Convention Citoyenne portée par Archipel Citoyen {#une-convention-citoyenne-portée-par-archipel-citoyen}
+
+# Une Convention Citoyenne portée par Archipel Citoyen
 
 Archipel Citoyen a pour raison d’être de redonner le pouvoir d’agir aux habitantEs.  
 Quand un projet fait l’objet d’une vive opposition et que sa visée même est contestée, Archipel Citoyen propose donc… de redonner la parole aux habitantEs.  
@@ -53,9 +54,9 @@ Parmis les conventions citoyennes organisées en France :
 
 Le modèle d’Assemblée Citoyenne Populaire propose une assemblé composée de trois collèges : citoyenEs, agentEs, éluEs.
 
-# Les “experts” de la Convention Citoyenne {#les-“experts”-de-la-convention-citoyenne}
+## Les “experts” de la Convention Citoyenne {#les-“experts”-de-la-convention-citoyenne}
 
-## L’expertise dans le cadre de la Convention Citoyenne
+### L’expertise dans le cadre de la Convention Citoyenne
 
 Le collège des experts a pour mission de transmettre à l’assemblée les éléments de contexte et de savoir nécessaire. Nous identifions plusieures catégories
 
@@ -75,21 +76,22 @@ Méthode
 * Le tableau ci-dessous dresse un bilan exhaustif des “experts” sollicités  
 * Les membres de l’assemblée pourront proposer de solliciter d’autres experts.
 
-## Les experts de la Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain
+### Les experts de la Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain
 
 A compléter après l’assemblée du 1/10/2024
 
-# Les garants de la Convention Citoyenne {#les-garants-de-la-convention-citoyenne}
+## Les `garants` de la Convention Citoyenne {#les-garants-de-la-convention-citoyenne}
 
-## Quelles sont les missions des garants d’une Convention Citoyenne ?
+### Quelles sont les missions des `garants` d’une Convention Citoyenne ?
 
 Les garants d’une Convention Citoyenne sont indépendants de l’assemblée, des organisateurs et de toute autre instance (de la convention, de tout groupe ayant partie prenante). Ils observent le processus et rendent compte de ses limites. Ils formulent des avis quand ils observent des écarts au cours même du processus.
 
-## Qui sont les garants d’une Convention Citoyenne ?
+### Qui sont les `garants` d’une Convention Citoyenne ?
 
 à compléter ultérieurement
 
-# Foire aux questions {#foire-aux-questions}
+
+# Foire aux questions
 
 ## Comment le panel (Assemblée Citoyenne) a-t’il été constitué ?
 
