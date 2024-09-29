@@ -4,4 +4,4 @@
 - Où nous en sommes
 
 Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :
-- [Le petit programme utilisé pour le tirage au sort, qui simule des flêchettes dans une zone définie au préalable]()
+- [Le petit programme utilisé pour le tirage au sort, qui simule des flêchettes dans une zone définie au préalable](geotirage.ipynb)
