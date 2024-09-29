@@ -1,19 +1,18 @@
 # La convention citoyenne pur les mobilités du sud-est toulousain
 
+- [La démarche d’Archipel Citoyen](##)
+- [Une Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain](#une-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain)
+- [Qu’est-ce qu’une Convention Citoyenne ?](#qu’est-ce-qu’une-convention-citoyenne-?)
+- [Une Convention Citoyenne portée par Archipel Citoyen](#une-convention-citoyenne-portée-par-archipel-citoyen)
+    - [Les “experts” de la Convention Citoyenne](#les-“experts”-de-la-convention-citoyenne)
+    - [Les garants de la Convention Citoyenne](#les-garants-de-la-convention-citoyenne)
+    - [Qu’est-ce qui distingue la Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain des autres grandes Convention Citoyennes ?](#qu’est-ce-qui-distingue-la-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain-des-autres-grandes-convention-citoyennes-?)
 
-1. [La démarche d’Archipel Citoyen](##)
-2. [Une Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain](##une-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain)
-3. [Qu’est-ce qu’une Convention Citoyenne ?](##qu’est-ce-qu’une-convention-citoyenne-?)
-4. [Une Convention Citoyenne portée par Archipel Citoyen](##une-convention-citoyenne-portée-par-archipel-citoyen)
-    4.1. [Les “experts” de la Convention Citoyenne](###les-“experts”-de-la-convention-citoyenne)
-    4.2. [Les garants de la Convention Citoyenne](###les-garants-de-la-convention-citoyenne)
-    4.3. [Qu’est-ce qui distingue la Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain des autres grandes Convention Citoyennes ?](###qu’est-ce-qui-distingue-la-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain-des-autres-grandes-convention-citoyennes-?)
 
-
-1. [Les prochaines étapes](##où-en-sommes-nous-?-les-prochaines-étapes)
-7. [Le projet : calendrier, avancement](##le-projet-:-calendrier,-avancement)
-8. [Historique du projet de la Jonction Est](##)
-11. [Foire aux questions](##foire-aux-questions)
+- [Les prochaines étapes](##où-en-sommes-nous-?-les-prochaines-étapes)
+- [Le projet : calendrier, avancement](##le-projet-:-calendrier,-avancement)
+- [Historique du projet de la Jonction Est](##)
+- [Foire aux questions](##foire-aux-questions)
 
 # Où en sommes-nous ? Les prochaines étapes {#où-en-sommes-nous-?-les-prochaines-étapes}
 
