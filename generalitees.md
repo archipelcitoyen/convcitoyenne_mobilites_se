@@ -8,20 +8,9 @@
     - [Les `garants`](#les-garants)
     - [Différences avec les autres grandes Convention Citoyennes](#qu’est-ce-qui-distingue-la-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain-des-autres-grandes-convention-citoyennes-?)
 
-
-- [Les prochaines étapes](##où-en-sommes-nous-?-les-prochaines-étapes)
-- [Le projet : calendrier, avancement](##le-projet-:-calendrier,-avancement)
 - [Historique du projet de la Jonction Est](##)
 - [Foire aux questions](##foire-aux-questions)
 
-# Où en sommes-nous ? Les prochaines étapes {#où-en-sommes-nous-?-les-prochaines-étapes}
-
-Septembre \- octobre :
-
-* **Recrutement des membres de l’Assemblée Citoyenne en porte-à-porte**  
-* **Choix des experts et des garants de la Convention Citoyenne**
-
-![][image1]
 
 # Une Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain {#une-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain}
 
@@ -63,14 +52,6 @@ Parmis les conventions citoyennes organisées en France :
 - Mixte : la CC sur l’IA à Montpellier (CCIA)
 
 Le modèle d’Assemblée Citoyenne Populaire propose une assemblé composée de trois collèges : citoyenEs, agentEs, éluEs.
-
-# Le projet : calendrier, avancement {#le-projet-:-calendrier,-avancement}
-
-Le planning de la Convention Citoyenne est le suivant :  
-![][image3]
-
-État des tâches en cours :  
-![][image4]
 
 # Les “experts” de la Convention Citoyenne {#les-“experts”-de-la-convention-citoyenne}
 
@@ -143,18 +124,6 @@ Collectif Non à la Jonction Est :
   * [44000 nouveaux habitants dans l'Est Toulousain ? Quelle source ?](https://youtu.be/h8KvUDcUqFw?si=7aB-T35sN_OFrPts),   
   * [Jonction EST : enquête sur un projet inutile, coûteux et dangereux](https://youtu.be/ctRlOlEIBns?si=XlrPQh-97U-AM92h),  
   * [si on fait une concertation…](https://youtu.be/dOn6WSQ2xYU?si=KWRblswMEV2IB2aA)
-
-## Quelles sont les associations, collectifs et organisations sollicitées au cours du projet ?
-
-A compléter après l’assemblée du 1/10/2024
-
-## Qui a été contacté comme expert ?
-
-à compléter ultérieurement
-
-## Qui a été contacté comme garant ?
-
-à compléter ultérieurement
 
 ## Convention Citoyenne ou Assemblée Citoyenne Populaire ?
 
