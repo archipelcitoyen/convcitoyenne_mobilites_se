@@ -4,4 +4,4 @@
 🔄 [Où nous en sommes](suivi.md)  
 
 Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :  
-🎯 [Le petit programme utilisé pour le tirage au sort, qui simule des fléchettes dans une zone circulaire de $x$ km autour d'un point défini au préalable](geotirage.ipynb)  
+🎯 [Le petit bout de code utilisé pour le tirage au sort](geotirage.ipynb)  
