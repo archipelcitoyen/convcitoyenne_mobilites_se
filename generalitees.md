@@ -24,24 +24,7 @@ Nous lançons une Convention Citoyenne…
 Cette initiative prise par Archipel Citoyen répond à une urgence : sortir des clivages et de l’impasse démocratique qui produit de la désespérance et un repli sur des positions identitaires mortifères.
 
 
-# Une Convention Citoyenne portée par Archipel Citoyen
-
-Archipel Citoyen a pour raison d’être de redonner le pouvoir d’agir aux habitantEs.  
-Quand un projet fait l’objet d’une vive opposition et que sa visée même est contestée, Archipel Citoyen propose donc… de redonner la parole aux habitantEs.  
-Plusieurs Conventions Citoyennes ont été menées ces dernières années avec succès (en tant que processus d’élaboration).
-
-Notre démarche est politique : redonner le pouvoir d’agir aux habitantEs.  
-Notre démarche n’est pas politicienne : nous porterons les conclusions de l’assemblée citoyenne sans modification.  
-Notre démarche est a-partisane : l’indépendance des travaux d’une assemblée citoyenne sont garantis par le processus (comme en atteste la Convention Citoyenne pour le Climat, les propositions formulées dépassant largement les attentes).  
-Notre démarche est ouverte : tout au long du processus, nous avons sollicité et obtenu l’avis de membres d’associations et de collectifs concernés par le projet.  Le processus fait l’objet d’un regard rigoureux et critique de la part de garants.
-
-# Qu’est-ce qui distingue la Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain des autres grandes Convention Citoyennes ? {#qu’est-ce-qui-distingue-la-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain-des-autres-grandes-convention-citoyennes-?}
-
-Rien au niveau de l’ambition et de l’éthique. On retrouve le même schéma de fonctionnement, les mêmes garanties.  
-Tout au niveau des moyens. La Convention Citoyenne pour les mobilités dans le Sud-Est Toulousain est portée par des bénévoles pour que des habitantEs tirés au sort puissent se faire entendre.  
-Une exception : le mandant est habituellement l’exécutif d’une collectivité territoriale. La convention n’étant pas portée par Toulouse Métropole, le projet émane d’habitantEs formulant une proposition de Convention Citoyenne qui est portée par Archipel Citoyen \- intervenant comme organisateur.
-
-# Qu’est-ce qu’une Convention Citoyenne ? {#qu’est-ce-qu’une-convention-citoyenne-?}
+# Qu’est-ce qu’une Convention Citoyenne ?
 
 Les Conventions Citoyennes sont des modes d’organisation de la participation citoyenne qui sont matures. On en trouve notamment une description sur le site [pour des conventions citoyennes](https://pourdesconventionscitoyennes.org/). Convention Citoyenne sur les mobilités dans le Sud-Est Toulousain a été monté sur ces principes et son mode d’organisation est présenté dans le schéma suivant :  
 ![][image2]
@@ -53,6 +36,18 @@ Parmis les conventions citoyennes organisées en France :
 - Mixte : la CC sur l’IA à Montpellier (CCIA)
 
 Le modèle d’Assemblée Citoyenne Populaire propose une assemblé composée de trois collèges : citoyenEs, agentEs, éluEs.
+
+
+# Une Convention Citoyenne portée par Archipel Citoyen
+
+Archipel Citoyen a pour raison d’être de redonner le pouvoir d’agir aux habitantEs.  
+Quand un projet fait l’objet d’une vive opposition et que sa visée même est contestée, Archipel Citoyen propose donc… de redonner la parole aux habitantEs.  
+Plusieurs Conventions Citoyennes ont été menées ces dernières années avec succès (en tant que processus d’élaboration).
+
+Notre démarche est politique : redonner le pouvoir d’agir aux habitantEs.   
+Notre démarche n’est pas politicienne : nous porterons les conclusions de l’assemblée citoyenne sans modification.  
+Notre démarche est a-partisane : l’indépendance des travaux d’une assemblée citoyenne sont garantis par le processus (comme en atteste la Convention Citoyenne pour le Climat, les propositions formulées dépassant largement les attentes).  
+Notre démarche est ouverte : tout au long du processus, nous avons sollicité et obtenu l’avis de membres d’associations et de collectifs concernés par le projet.  Le processus fait l’objet d’un regard rigoureux et critique de la part de garants.
 
 ## Les “experts” de la Convention Citoyenne {#les-“experts”-de-la-convention-citoyenne}
 
