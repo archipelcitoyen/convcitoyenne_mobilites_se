@@ -6,7 +6,7 @@
 - [Une Convention Citoyenne portée par Archipel Citoyen](#une-convention-citoyenne-portée-par-archipel-citoyen)
     - [Les `experts`](#les-experts)
     - [Les `garants`](#les-garants)
-    - [Différences avec les autres grandes Convention Citoyennes](#qu’est-ce-qui-distingue-la-convention-citoyenne-sur-les-mobilités-dans-le-sud-est-toulousain-des-autres-grandes-convention-citoyennes-?)
+    - [Différences avec les autres grandes Convention Citoyennes](#différences-avec-les-autres-grandes-convention-citoyennes)
 
 - [Historique du projet de la Jonction Est](##)
 - [Foire aux questions](##foire-aux-questions)
@@ -84,6 +84,12 @@ Les garants d’une Convention Citoyenne sont indépendants de l’assemblée, d
 ### Qui sont les `garants` d’une Convention Citoyenne ?
 
 à compléter ultérieurement
+
+## Différences avec les autres grandes Convention Citoyennes 
+
+Rien au niveau de l’ambition et de l’éthique. On retrouve le même schéma de fonctionnement, les mêmes garanties.  
+Tout au niveau des moyens. La Convention Citoyenne pour les mobilités dans le Sud-Est Toulousain est portée par des bénévoles pour que des habitantEs tirés au sort puissent se faire entendre.  
+Une exception : le mandant est habituellement l’exécutif d’une collectivité territoriale. La convention n’étant pas portée par Toulouse Métropole, le projet émane d’habitantEs formulant une proposition de Convention Citoyenne qui est portée par Archipel Citoyen \- intervenant comme organisateur.
 
 
 # Foire aux questions
