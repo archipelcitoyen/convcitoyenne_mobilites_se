@@ -1,7 +1,3 @@
-- [Les prochaines étapes](#où-en-sommes-nous-?-les-prochaines-étapes)
-- [Le projet : calendrier, avancement](#le-projet-:-calendrier,-avancement)
-
-
 # Où en sommes-nous ? Les prochaines étapes
 
 Septembre \- octobre :
@@ -10,22 +6,25 @@ Septembre \- octobre :
 * **Choix des experts et des garants de la Convention Citoyenne**
 
 
-# Le projet : calendrier, avancement
+## Le projet : calendrier, avancement
 
 Le planning de la Convention Citoyenne est le suivant :  
-![alt text](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/schemacc.jpg?raw=true)
+![alt text](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/fresquechrono.png?raw=true)
 
 État des tâches en cours :  
-![alt text](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/fresquechrono.png?raw=true)
+- [x] Deja fait
+- [ ] 
 
 
 ## Quelles sont les associations, collectifs et organisations sollicitées au cours du projet ?
 
 A compléter après l’assemblée du 1/10/2024
 
+
 ## Qui a été contacté comme expert ?
 
 à compléter ultérieurement
+
 
 ## Qui a été contacté comme garant ?
 
