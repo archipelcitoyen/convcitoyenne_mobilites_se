@@ -12,7 +12,7 @@ Septembre \- octobre :
 
 # Le projet : calendrier, avancement
 
-Le planning de la Convention Citoyenne est le suivant :
+Le planning de la Convention Citoyenne est le suivant :  
 ![alt text](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/schemacc.jpg?raw=true)
 
 État des tâches en cours :  
