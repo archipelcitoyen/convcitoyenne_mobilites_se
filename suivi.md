@@ -13,7 +13,7 @@ Le planning de la Convention Citoyenne est le suivant :
 
 État des tâches en cours :  
 - [x] Deja fait
-- [ ] 
+- [] à faire
 
 
 ## Quelles sont les associations, collectifs et organisations sollicitées au cours du projet ?
