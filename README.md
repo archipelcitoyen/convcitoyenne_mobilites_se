@@ -1,8 +1,3 @@
-<br>
-<br>
-<br>
-<br>
-
 📄 La [description générale du projet](generalitees.md)  
 🙋 Une [Foire Aux Questions](faq.md)  
 🔄 [Où nous en sommes](suivi.md)  
