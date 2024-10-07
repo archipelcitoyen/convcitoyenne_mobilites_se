@@ -13,8 +13,8 @@ Dans ce contexte, Toulouse Métropole prévoit de lancer une enquête publique q
 
 #### Une Convention Citoyenne pour sortir des oppositions stériles
 
-➡️ Pour proposer un cadre serein et propice aux échanges constructifs entre citoyens.
-➡️ Pour penser la question des mobilités dans sa globalité - et non pas projet par projet.
+➡️ Pour proposer un cadre serein et propice aux échanges constructifs entre citoyens.  
+➡️ Pour penser la question des mobilités dans sa globalité - et non pas projet par projet.  
 
 
 #### Une Convention Citoyenne, qu’est-ce que c’est ?
