@@ -1,23 +1,23 @@
-## Le modèle de lettre d'invitation pour les expert·e·s
+# Le modèle de lettre d'invitation pour les expert·e·s
 
-<h3 style="text-align: center;">Convention Citoyenne sur les mobilités sur les mobilités dans le Sud-Est Toulousain</h3>
+<h2 style="text-align: center;">Convention Citoyenne sur les mobilités sur les mobilités dans le Sud-Est Toulousain</h2>
 
-<h4 style="text-align: center;">Nous vous sollicitons comme expert·e·s</h4>
+<h3 style="text-align: center;">Nous vous sollicitons comme expert·e·s</h3>
 
-#### Le contexte
+### Le contexte
 
 Le nombre d’habitants et d’habitantes du Sud Est Toulousain augmente avec la construction de nouveaux logements, notamment dans les quartiers Malepère et Montaudran. En l’état, cette augmentation va probablement exacerber les problèmes de mobilité déjà présents : embouteillages automobiles, transports en commun bondés et aussi victimes de ces embouteillages, modes actifs qui n’ont pas vraiment de place pour exister et se développer.
 
 Dans ce contexte, Toulouse Métropole prévoit de lancer une enquête publique qui porte sur un projet autoroutier : la Jonction Est, c’est à dire la création d’un nouvel échangeur sur la rocade entre Lasbordes et Saint-Orens. Ce projet, gigantesque en termes d’impact et de financement, va nécessairement phagocyter les multiples autres solutions qui auraient pu être envisagées. Des habitants et habitantes estiment qu’il existe justement des alternatives mais ne parviennent pas à être entendus. Lors de la concertation sur le projet, plus de 94 % des contributions étaient défavorables mais celui-ci a été validé par 90% des élus de Toulouse Métropole. Les avis exprimés lors de la concertation n’ont pas été débattus. La démocratie représentative et la démocratie participative sont mises en échec.
 
 
-#### Une Convention Citoyenne pour sortir des oppositions stériles
+### Une Convention Citoyenne pour sortir des oppositions stériles
 
 ➡️ Pour proposer un cadre serein et propice aux échanges constructifs entre citoyens.  
 ➡️ Pour penser la question des mobilités dans sa globalité - et non pas projet par projet.  
 
 
-#### Une Convention Citoyenne, qu’est-ce que c’est ?
+### Une Convention Citoyenne, qu’est-ce que c’est ?
 
 Une Convention Citoyenne répond à une question précise – en l'occurrence « quelles propositions pour les mobilités dans le Sud Est Toulousain ?».
 Elle est constituée d’habitants et d’habitantes qui forment une assemblée citoyenne. Les membres de l’assemblée sont d’origine, de formation et de milieux différents. Ils sont tous et toutes légitimes car tiré.es au sort dans la zone concernée.
@@ -30,7 +30,7 @@ Indépendance. Des garants observent le processus et en précisent les limites. 
 Ces dernières années des Conventions Citoyennes (CC) ont été menées avec succès : CC pour le Climat, CC sur la Fin de Vie, CC d’Occitanie, CC de Nantes, Lyon, ...
 
 
-#### Rejoindre la Convention Citoyenne
+### Rejoindre la Convention Citoyenne
 
 Nous vous sollicitons pour intervenir au titre du collège des **expert·e·s**. Ils et elles :
 - ont une mission de transmission aux membres de l’assemblée citoyenne.
@@ -49,7 +49,7 @@ Les **garant·e·s** observent le processus de convention citoyenne. Ils et elle
 
 Participer c’est accepter de s’engager dans une démarche de démocratie participative - une démarche unique en son genre à notre connaissance dans un cadre porté par des citoyen·e·s.
 
-#### Un projet porté par Archipel Citoyen
+### Un projet porté par Archipel Citoyen
 
 Archipel Citoyen est un mouvement politique et citoyen créé à Toulouse en 2017. Le mouvement promeut la participation active des citoyens à la vie politique locale, en encourageant des pratiques de démocratie directe et délibérative.
 
@@ -57,7 +57,7 @@ Archipel Citoyen n’intervient qu’en tant que porteur du projet. Des associat
 
 Consulter notre [site](https://archipelcitoyen.github.io/convcitoyenne_mobilites_se/).
 
-Nos engagements
+### Nos engagements
 
 1. Faciliter la participation des **experts** en vous accompagnant pour que cela reste le plus simple possible
 2. Les **propositions** émises par l’assemblée citoyenne seront **portées sans modifications** 
