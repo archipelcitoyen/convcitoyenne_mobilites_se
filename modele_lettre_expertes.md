@@ -2,7 +2,7 @@
 
 <h3 style="text-align: center;">Convention Citoyenne sur les mobilités sur les mobilités dans le Sud-Est Toulousain</h3>
 
-<h4 style="text-align: center;">Nous vous sollicitons comme garant</h4>
+<h4 style="text-align: center;">Nous vous sollicitons comme expert·e·s</h4>
 
 #### Le contexte
 
@@ -32,34 +32,38 @@ Ces dernières années des Conventions Citoyennes (CC) ont été menées avec su
 
 #### Rejoindre la Convention Citoyenne
 
-Nous vous sollicitons pour intervenir au titre du collège des garants.
+Nous vous sollicitons pour intervenir au titre du collège des **expert·e·s**. Ils et elles :
+- ont une mission de transmission aux membres de l’assemblée citoyenne.
+- sont indépendant·e·s de la structure qui organise la convention citoyenne.
+- interviennent à une réunion de l’assemblée citoyenne de manière concise et répond aux questions de l’assemblée.
+- ne sont responsables et ne peuvent être tenu·e·s responsable·s que de leur·s intervention.
+- interviennent ponctuellement sur une des réunions de l’assemblée qui se tiendront :
+    - mercredi 6/11/24 (soirée)
+    - dimanche 17/11/24 (journée)
+    - samedi 7 décembre 2024 (journée)
 
-Les experts ont une mission de transmission aux membres de l’assemblée citoyenne. Ils sont indépendants de la structure qui organise la convention citoyenne. Un expert intervient à une réunion de l’assemblée citoyenne de manière concise et répond aux questions de l’assemblée. Il n’est responsable et ne peut être tenu responsable que de son intervention. Un expert intervient ponctuellement sur une des réunions de l’assemblée qui se tiendront :
-- mercredi 6/11/24 (soirée)
-- dimanche 17/11/24 (journée)
-- samedi 7 décembre 2024 (journée)
+Les **garant·e·s** observent le processus de convention citoyenne. Ils et elles :
+- peuvent alerter lors de son déroulement en publiant un avis.
+- documentent le bon déroulement, les manques et les biais du processus qui est mené dans un avis qui est publié.
+- ne sont ni engagé·e·s par les travaux de l’assemblée, ni par l’organisation et la facilitation de l’assemblée citoyenne.
 
-Les garants observent le processus de convention citoyenne. Ils peuvent alerter lors de son déroulement en publiant un avis. Ils documentent le bon déroulement, les manques et les biais du processus qui est mené dans un avis qui est publié.
-
-Les garants ne sont ni engagés par les travaux de l’assemblée, ni par l’organisation et la facilitation de l’assemblée citoyenne. Participer c’est accepter de s’engager dans une démarche de démocratie participative - une démarche unique en son genre à notre connaissance dans un cadre porté par des citoyenEs.
+Participer c’est accepter de s’engager dans une démarche de démocratie participative - une démarche unique en son genre à notre connaissance dans un cadre porté par des citoyen·e·s.
 
 #### Un projet porté par Archipel Citoyen
 
 Archipel Citoyen est un mouvement politique et citoyen créé à Toulouse en 2017. Le mouvement promeut la participation active des citoyens à la vie politique locale, en encourageant des pratiques de démocratie directe et délibérative.
 
-Archipel Citoyen n’intervient qu’en tant que porteur du projet. Des associations partenaires ont été sollicitées pour contribuer au projet. Le premier choix des experts et garants a fait l’objet d’un travail en assemblée des partenaires. Les membres de l’assemblée citoyenne pourront solliciter d’autres experts.
+Archipel Citoyen n’intervient qu’en tant que porteur du projet. Des associations partenaires ont été sollicitées pour contribuer au projet. Le premier choix des expert·e·s et garant·e·s a fait l’objet d’un travail en assemblée des partenaires. Les membres de l’assemblée citoyenne pourront solliciter d’autres expert·e·s.
 
 Consulter notre [site](https://archipelcitoyen.github.io/convcitoyenne_mobilites_se/).
 
 Nos engagements
 
-1. Faciliter la participation des garants en vous accompagnant pour que cela reste le plus simple possible
-2. Les propositions émises par l’assemblée citoyenne seront portées sans modifications 
-3. Elles seront versées comme contribution à l’enquête publique sur la Jonction Est (sous condition que les dates de celle-ci restent inchangées)
-4. Archipel Citoyen n’intervient que comme porteur et facilitateur. L’indépendance de l’assemblée citoyenne sera rigoureusement respectée. En revanche, les propositions émises lors de cette convention seront considérées comme un élément programmatique pour Archipel Citoyen aux prochaines municipales de 2026.
-5. Le processus est observé par des garants qui alertent et rendent compte de ses limites
+1. Faciliter la participation des **experts** en vous accompagnant pour que cela reste le plus simple possible
+2. Les **propositions** émises par l’assemblée citoyenne seront **portées sans modifications** 
+3. Elles seront versées comme **contribution à l’enquête publique sur la Jonction Est** (sous condition que les dates de celle-ci restent inchangées)
+4. Archipel Citoyen n’intervient que comme porteur et facilitateur. L’**indépendance de l’assemblée citoyenne** sera rigoureusement respectée. En revanche, les propositions émises lors de cette convention seront considérées comme un élément programmatique pour Archipel Citoyen aux prochaines municipales de 2026.
+5. Le **processus est observé par des garants** qui alertent et rendent compte de ses limites
 
 
 Pourriez-vous nous faire un retour avant le 18 octobre 2024 ? Nous sommes à votre disposition pour tout renseignement complémentaire
-## Le modèle de lettre d'invitation pour les garant·e·s
-
