@@ -25,7 +25,7 @@ Elle est constituée d’habitant·e·s qui forment une assemblée citoyenne. Le
 Les réunions de l’assemblée citoyenne sont animées par des facilitateurs et facilitatrices qui visent la neutralité.
 
 L’assemblée auditionne des expert·e·s qui éclairent leur compréhension du sujet. Le processus repose sur la confiance en ce qu’une assemblée suffisamment diverse, et qui s’est formée sur un sujet, émettra des propositions pertinentes et acceptables. Cela a été largement vérifié lors de la Convention Citoyenne pour le Climat.
-Indépendance. Des garant·e·s observent le processus et en précisent les limites. Les travaux de l’assemblée sont publics. L’assemblée formule des propositions.
+Des garant·e·s observent le processus et en précisent les limites. Les travaux de l’assemblée sont publics. L’assemblée formule des propositions.
 
 Ces dernières années des Conventions Citoyennes (CC) ont été menées avec succès : CC pour le Climat, CC sur la Fin de Vie, CC d’Occitanie, CC de Nantes, Lyon, ...
 
