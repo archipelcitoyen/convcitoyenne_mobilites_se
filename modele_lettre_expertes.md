@@ -2,30 +2,29 @@
 
 <h2 style="text-align: center;">Convention Citoyenne sur les mobilités sur les mobilités dans le Sud-Est Toulousain</h2>
 
-<h3 style="text-align: center;">Nous vous sollicitons comme expert·e·s</h3>
+<h3 style="text-align: center;">Nous vous sollicitons comme expert·e</h3>
 
 ### Le contexte
 
-Le nombre d’habitants et d’habitantes du Sud Est Toulousain augmente avec la construction de nouveaux logements, notamment dans les quartiers Malepère et Montaudran. En l’état, cette augmentation va probablement exacerber les problèmes de mobilité déjà présents : embouteillages automobiles, transports en commun bondés et aussi victimes de ces embouteillages, modes actifs qui n’ont pas vraiment de place pour exister et se développer.
+Le nombre d’habitant·e·s du Sud Est Toulousain augmente avec la construction de nouveaux logements, notamment dans les quartiers Malepère et Montaudran. En l’état, cette augmentation va probablement exacerber les problèmes de mobilité déjà présents : embouteillages automobiles, transports en commun bondés et aussi victimes de ces embouteillages, modes actifs qui n’ont pas vraiment de place pour exister et se développer.
 
-Dans ce contexte, Toulouse Métropole prévoit de lancer une enquête publique qui porte sur un projet autoroutier : la Jonction Est, c’est à dire la création d’un nouvel échangeur sur la rocade entre Lasbordes et Saint-Orens. Ce projet, gigantesque en termes d’impact et de financement, va nécessairement phagocyter les multiples autres solutions qui auraient pu être envisagées. Des habitants et habitantes estiment qu’il existe justement des alternatives mais ne parviennent pas à être entendus. Lors de la concertation sur le projet, plus de 94 % des contributions étaient défavorables mais celui-ci a été validé par 90% des élus de Toulouse Métropole. Les avis exprimés lors de la concertation n’ont pas été débattus. La démocratie représentative et la démocratie participative sont mises en échec.
+Dans ce contexte, Toulouse Métropole prévoit de lancer une enquête publique qui porte sur un projet autoroutier : la Jonction Est, c’est à dire la création d’un nouvel échangeur sur la rocade entre Lasbordes et Saint-Orens. Ce projet, gigantesque en termes d’impact et de financement, va nécessairement phagocyter les multiples autres solutions qui auraient pu être envisagées. Des habitant·e·s estiment qu’il existe justement des alternatives mais ne parviennent pas à être entendus. Lors de la concertation sur le projet, plus de 94 % des contributions étaient défavorables mais celui-ci a été validé par 90% des élus de Toulouse Métropole. Les avis exprimés lors de la concertation n’ont pas été débattus. La démocratie représentative et la démocratie participative sont mises en échec.
 
 
 ### Une Convention Citoyenne pour sortir des oppositions stériles
 
-➡️ Pour proposer un cadre serein et propice aux échanges constructifs entre citoyens.  
+➡️ Pour proposer un cadre serein et propice aux échanges constructifs entre citoyen·e·s.  
 ➡️ Pour penser la question des mobilités dans sa globalité - et non pas projet par projet.  
 
 
 ### Une Convention Citoyenne, qu’est-ce que c’est ?
 
 Une Convention Citoyenne répond à une question précise – en l'occurrence « quelles propositions pour les mobilités dans le Sud Est Toulousain ?».
-Elle est constituée d’habitants et d’habitantes qui forment une assemblée citoyenne. Les membres de l’assemblée sont d’origine, de formation et de milieux différents. Ils sont tous et toutes légitimes car tiré.es au sort dans la zone concernée.
+Elle est constituée d’habitant·e·s qui forment une assemblée citoyenne. Les membres de l’assemblée sont d’origine, de formation et de milieux différents. Ils sont tous et toutes légitimes car tiré.es au sort dans la zone concernée.
 
-Les réunions de l’assemblée citoyenne sont animées par des facilitateurs qui visent la neutralité.
+Les réunions de l’assemblée citoyenne sont animées par des facilitateurs et facilitatrices qui visent la neutralité.
 
-L’assemblée auditionne des experts qui éclairent leur compréhension du sujet. Le processus repose sur la confiance en ce qu’une assemblée suffisamment diverse, et qui s’est formée sur un sujet, émettra des propositions pertinentes et acceptables. Cela a été largement vérifié lors de la Convention Citoyenne pour le Climat.
-Indépendance. Des garants observent le processus et en précisent les limites. Les travaux de l’assemblée sont publics. L’assemblée formule des propositions.
+L’assemblée auditionne des expert·e·s qui éclairent leur compréhension du sujet. Le processus repose sur la confiance en ce qu’une assemblée suffisamment diverse, et qui s’est formée sur un sujet, émettra des propositions pertinentes et acceptables. Cela a été largement vérifié lors de la Convention Citoyenne pour le Climat. Des garants observent le processus et en précisent les limites. Les travaux de l’assemblée sont publics. L’assemblée formule des propositions.
 
 Ces dernières années des Conventions Citoyennes (CC) ont été menées avec succès : CC pour le Climat, CC sur la Fin de Vie, CC d’Occitanie, CC de Nantes, Lyon, ...
 
@@ -51,7 +50,7 @@ Participer c’est accepter de s’engager dans une démarche de démocratie par
 
 ### Un projet porté par Archipel Citoyen
 
-Archipel Citoyen est un mouvement politique et citoyen créé à Toulouse en 2017. Le mouvement promeut la participation active des citoyens à la vie politique locale, en encourageant des pratiques de démocratie directe et délibérative.
+Archipel Citoyen est un mouvement politique et citoyen créé à Toulouse en 2017. Le mouvement promeut la participation active des citoyen·e·s à la vie politique locale, en encourageant des pratiques de démocratie directe et délibérative.
 
 Archipel Citoyen n’intervient qu’en tant que porteur du projet. Des associations partenaires ont été sollicitées pour contribuer au projet. Le premier choix des expert·e·s et garant·e·s a fait l’objet d’un travail en assemblée des partenaires. Les membres de l’assemblée citoyenne pourront solliciter d’autres expert·e·s.
 
