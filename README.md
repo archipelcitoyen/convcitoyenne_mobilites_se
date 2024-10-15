@@ -1,7 +1,7 @@
 📄 La [description générale du projet](generalitees.md)  
 🙋 Une [Foire Aux Questions](faq.md)  
 🔄 [Où nous en sommes](suivi.md)  
-🧑‍🔬 [Les experts sollicités](experts.md)
+🧑‍🔬 [Les expert·e·s sollicité·e·s](experts.md)
 
 Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :  
 🎯 Le [petit bout de code](geotirage.ipynb) utilisé pour le tirage au sort  
