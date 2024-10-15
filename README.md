@@ -1,6 +1,6 @@
 📄 La [description générale du projet](generalitees.md)  
 🙋 Une [Foire Aux Questions](faq.md)  
-🔄 [Où nous en sommes](suivi.md)
+🔄 [Où nous en sommes](suivi.md)  
 🧑‍🔬 [Les experts sollicités](experts.md)
 
 Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :  
