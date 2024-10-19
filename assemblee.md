@@ -14,4 +14,4 @@ Compte tenu du périmètre et de la portée de la Convention Citoyenne, il nous 
 . Diversité suffisante
 
 # Carte des adresses tirées au sort
-![][carte tirage au sort.png]
+![image][carte tirage au sort.png]
