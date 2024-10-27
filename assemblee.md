@@ -13,5 +13,9 @@ Compte tenu du périmètre et de la portée de la Convention Citoyenne, il nous 
 . Un format resserré : 3 réunions sur un mois
 . Diversité suffisante
 
+# Les infolettres de l'assemblée citoyenne
+Infolettres [1](Infolettre assemblée #1 (8 octobre).jpg), [2](Infolettre de l'assemblée #2 (14 octobre).jpg), [3](Infolettre de l'assemblée #3 (21 octobre).jpg)
+Les infolettres sont partageables sur Canva, [nous contacter](mailtoevenements@archipelcitoyen.org)
+
 # Carte des adresses tirées au sort
-![alt text][https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/carte_tirage_au_sort.png?raw=true]
+![alt text](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/carte_tirage_au_sort.png?raw=true)
