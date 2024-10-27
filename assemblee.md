@@ -14,7 +14,7 @@ Compte tenu du périmètre et de la portée de la Convention Citoyenne, il nous 
 . Diversité suffisante
 
 # Les infolettres de l'assemblée citoyenne
-Infolettres [1](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/Infolettre%20assembl%C3%A9e%20%231%20(8%20octobre).jpg), [2](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/Infolettre%20de%20l'assembl%C3%A9e%20%232%20(14%20octobre).jpg), [3](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/Infolettre%20de%20l'assembl%C3%A9e%20%233%20(21%20octobre).jpg)
+Infolettres [1](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/Infolettre%20assembl%C3%A9e%20%231%20(8%20octobre).jpg), [2](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/Infolettre%20de%20l'assembl%C3%A9e%20%232%20(14%20octobre).jpg), [3](https://github.com/archipelcitoyen/convcitoyenne_mobilites_se/blob/main/Infolettre%20de%20l'assembl%C3%A9e%20%233%20(21%20octobre).jpg)  
 Les infolettres sont partageables sur Canva, [nous contacter](mailtoevenements@archipelcitoyen.org)
 
 # Carte des adresses tirées au sort
