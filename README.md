@@ -14,11 +14,10 @@ Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :
 ### Session 1 - mercredi 6 novembre 2024 - 18:22h
 
 [📺](https://youtu.be/EgCQEZ13DaM) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #1 - Pierre Cambon - PDU et PLUiH [10 min]  
-[📺](https://youtu.be/TRAZoPWEJOo) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #2 - Sébastien - Dynamique de population [10 min]  
+[📺](https://youtu.be/TRAZoPWEJOo) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #2 - Sébastien - Dynamiques de population [10 min]  
 [📺](https://youtu.be/V_F8ehKChvo) [🖥️](https://docs.google.com/presentation/d/1EROK8DyP6qT_u4Wt1u5FCID2kk7Fnuyip31o9aefZXM/edit?usp=sharing) - #3 - Olivier Barrier - Infrastructure automobile [18 min]  
 [📺](https://youtu.be/e42VSnqtfYY) [🖥️](https://drive.google.com/file/d/1cTQ80KpO3_rPG_ppuIS8edBJtgfLB1Dh/view?usp=sharing) - #4 - Nicole Asencio (AUTATE) - Les transports en commun [20 min]  
 
 ### Session 2 - dimanche 17 novembre 2024
-📺 🖥️ 📃 - #
 
 ### Session 3 - samedi 7 décembre 2024
