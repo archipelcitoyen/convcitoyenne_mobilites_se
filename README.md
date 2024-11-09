@@ -11,6 +11,8 @@ Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :
 
 ## Les présentations
 
+Nous partageons en dessous les vidéos des présentations, mais il est importanter de noter que les sessions de l'assemblée sont bien plus que cela. C'est un moment partagé, avec des sessions de facilitation visant à ce que les membres de l'assemblée se sentent à l'aise pour s'exprimer, quelles que soient leurs opinions, et apprennent à former un groupe constructif et bienveillant. Ces moments ne peuvent pas être fidèlement retranscrits et documentés ici.
+
 ### Session 1 - mercredi 6 novembre 2024 - 18:22h
 
 [📺](https://youtu.be/EgCQEZ13DaM) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #1 - Pierre Cambon - PDU et PLUiH [10 min]  
