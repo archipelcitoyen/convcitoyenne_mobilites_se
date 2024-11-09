@@ -11,7 +11,7 @@ Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :
 
 ## Les présentations
 
-Nous partageons en dessous les vidéos des présentations, mais il est importanter de noter que les sessions de l'assemblée sont bien plus que cela. C'est un moment partagé, avec des sessions de facilitation visant à ce que les membres de l'assemblée se sentent à l'aise pour s'exprimer, quelles que soient leurs opinions, et apprennent à former un groupe constructif et bienveillant. Ces moments ne peuvent pas être fidèlement retranscrits et documentés ici.
+Nous partageons en dessous les vidéos des présentations, mais il est important de noter que les sessions de l'assemblée sont bien plus que cela. C'est un moment partagé, avec des sessions de facilitation visant à ce que les membres de l'assemblée se sentent à l'aise pour s'exprimer, quelles que soient leurs opinions, et forment un groupe constructif et bienveillant. Ces moments ne peuvent pas être fidèlement retranscrits et documentés ici.
 
 ### Session 1 - mercredi 6 novembre 2024 - 18:22h
 
