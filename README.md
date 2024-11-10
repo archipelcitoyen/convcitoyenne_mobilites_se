@@ -19,6 +19,10 @@ Nous partageons en dessous les vidéos des présentations, mais il est important
 [📺](https://youtu.be/TRAZoPWEJOo) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #2 - Sébastien - Dynamiques de population [10 min]  
 [📺](https://youtu.be/V_F8ehKChvo) [🖥️](https://docs.google.com/presentation/d/1EROK8DyP6qT_u4Wt1u5FCID2kk7Fnuyip31o9aefZXM/edit?usp=sharing) - #3 - Olivier Barrier - Infrastructure automobile [18 min]  
 [📺](https://youtu.be/e42VSnqtfYY) [🖥️](https://drive.google.com/file/d/1cTQ80KpO3_rPG_ppuIS8edBJtgfLB1Dh/view?usp=sharing) - #4 - Nicole Asencio (AUTATE) - Les transports en commun [20 min]  
+légende
+📺 : vidéo
+🖥️ : présentation
+
 
 ### Session 2 - dimanche 17 novembre 2024
 
