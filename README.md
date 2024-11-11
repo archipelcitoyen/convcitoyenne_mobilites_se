@@ -1,15 +1,4 @@
-📄 La [description générale du projet](generalitees.md)  
-🙋 Une [Foire Aux Questions](faq.md)  
-🔄 [Où nous en sommes](suivi.md)  
-🪄 [Les membres de l'assemblée citoyenne](assemblee.md)  
-🧑‍🔬 [Les expert·e·s sollicité·e·s](experts.md)
-
-Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :  
-🎯 Le [petit bout de code](geotirage.ipynb) utilisé pour le tirage au sort  
-📄 Les modèles de lettres à envoyer aux [expert·e·s](modele_lettre_expertes.md)  
-📄 Les modèles de lettres à envoyer aux [garant·e·s](modele_lettre_garantes.md)  
-
-## Les présentations
+## La convention citoyenne
 
 Nous partageons en dessous les vidéos des présentations, mais il est important de noter que les sessions de l'assemblée sont bien plus que cela. C'est un moment partagé, avec des sessions de facilitation visant à ce que les membres de l'assemblée se sentent à l'aise pour s'exprimer, quelles que soient leurs opinions, et forment un groupe constructif et bienveillant. Ces moments ne peuvent pas être fidèlement retranscrits et documentés ici.
 
@@ -26,3 +15,18 @@ Cliquer sur 📺 pour accéder à la vidéo et 🖥️ pour la présentation
 ### Session 2 - dimanche 17 novembre 2024
 
 ### Session 3 - samedi 7 décembre 2024
+
+
+## La préparation de l'évènement
+
+📄 La [description générale du projet](generalitees.md)  
+🙋 Une [Foire Aux Questions](faq.md)  
+🔄 [Où nous en sommes](suivi.md)  
+🪄 [Les membres de l'assemblée citoyenne](assemblee.md)  
+🧑‍🔬 [Les expert·e·s sollicité·e·s](experts.md)
+
+Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :  
+🎯 Le [petit bout de code](geotirage.ipynb) utilisé pour le tirage au sort  
+📄 Les modèles de lettres à envoyer aux [expert·e·s](modele_lettre_expertes.md)  
+📄 Les modèles de lettres à envoyer aux [garant·e·s](modele_lettre_garantes.md)  
+🧑‍🍳 Les [recettes](recettes.md) des plats cuisinés pour les pauses repas  
