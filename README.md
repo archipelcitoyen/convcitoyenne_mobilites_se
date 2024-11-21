@@ -13,7 +13,7 @@ Cliquer sur 📺 pour accéder à la vidéo et 🖥️ pour la présentation
 
 ### Session 2 - dimanche 17 novembre 2024
 
-[📺](https://youtu.be/zPMTAFo-Y4g) [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #1 - Claire Debesses - 2p2r - Toulouse et son agglo en modes actifs [25 min]  
+[📺](https://youtu.be/zPMTAFo-Y4g) [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #1 - Claire Debesses - 2p2r - Modes actifs [25 min]  
 [📺](https://youtu.be/JAQwYbIcveE) [🖥️](https://docs.google.com/presentation/d/1j9OB87irwMeFfGWV-odYkMTtidoRsCeJHCRGRGLgZ1c/edit?usp=drive_link) - #2 - Benoit - Rallumons l'étoile [25 min]  
 [✖️]() [🖥️](https://docs.google.com/presentation/d/1iF__m70cmH70Tx6sWIQtviH1ELZ4YI7q0rmNgYHXXaU/edit?usp=drive_link) - #3 - Alice - Climat  
 [✖️]() [🖥️](https://docs.google.com/presentation/d/13aFqbv1oIt6ZhWGXDjgoqV0xKYyo0J32/edit?usp=drive_link&ouid=117797709285819815547&rtpof=true&sd=true) - #4 - Paul Castagné - Biodiversité  
