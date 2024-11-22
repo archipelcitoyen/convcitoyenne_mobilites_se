@@ -109,3 +109,66 @@ Préparation :
 
 Astuce :
 Le fromage bleu (Roquefort AOP Société 1863) se marie à merveille avec les fruits secs, notamment la noix, donc vous pouvez remplacer le beurre par 4 cs d’huile de noix et rajouter 50g de noix concassées dans la préparation.
+
+
+### Moelleux à la châtaigne et à la crème de marron [Vegétarien] d'Olivier
+
+Source : https://www.paulineolivier.com/moelleux-a-la-chataigne/
+
+Ingrédients pour 6 personnes :
+- 150 g de farine de chataîgne
+- 200 g de crème de marron
+- 70 g de sucre roux
+- 3 oeufs
+- 10 cl de crème végétale
+- 110 g d’huile d’arachide + 20 g d’huile de noix (ou d’huile végétale)
+- 1 pincée de sel
+- 1 sachet de levure chimique
+- Noix
+- 1 cl de café fort ou 1 cs de rhum
+- Sucre glace
+
+Etapes :
+1. Préchauffer le four à 170 degrés
+2. Séparer les blancs et les jaunes. Faire monter les blancs en neige (avec une pincée de sel)
+3. Mélanger la farine, le sucre, les jaunes d’oeufs, le rhum ou le café, ainsi que l’huile
+4. Ajouter la crème végétale
+5. Ajouter la crème de marron
+6. Incorporer les blancs montés en neige
+7. Beurrer un moule à manquer de 20cm. Verser la pâte.
+8. Placer les noix sur le gâteau
+9. Enfourner 25 mn à 170 degrés
+10. Laisser tiédir avant de démouler
+11. Saupoudrer de sucre glace.
+
+
+### Moelleux à la châtaigne et à la crème de marron [Vegétalien] d'Olivier
+
+Source : https://www.paulineolivier.com/moelleux-a-la-chataigne/  
+Même base que la recette au dessus mais version végétalienne.
+
+Ingrédients pour 6 personnes :
+- 150 g de farine de chataîgne
+- 200 g de crème de marron
+- 70 g de sucre roux
+- 3 bananes bien mûres ou de la compote de pommes
+- 10 cl de crème végétale
+- 110 g d’huile d’arachide + 20 g d’huile de noix (ou d’huile végétale)
+- 1 pincée de sel
+- 1 sachet de levure chimique
+- Noix
+- 1 cl de café fort ou 1 cs de rhum
+- Sucre glace
+
+Etapes :
+1. Préchauffer le four à 170 degrés
+2. Écraser les bananes
+3. Mélanger la farine, le sucre, le rhum ou le café, ainsi que l’huile
+4. Ajouter les bananes (ou la compote de pommes)
+5. Ajouter la crème végétale
+6. Ajouter la crème de marron
+7. Beurrer un moule à manquer de 20cm. Verser la pâte
+8. Placer les noix sur le gâteau
+9. Enfourner 25 mn à 170 degrés
+10. Laisser tiédir avant de démouler
+11. Saupoudrer de sucre glace
