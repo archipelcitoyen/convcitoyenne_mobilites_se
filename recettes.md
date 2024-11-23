@@ -160,7 +160,7 @@ Ingrédients pour 6 personnes :
 - 1 cl de café fort ou 1 cs de rhum
 - Sucre glace
 
-Etapes :
+Étapes :
 1. Préchauffer le four à 170 degrés
 2. Écraser les bananes
 3. Mélanger la farine, le sucre, le rhum ou le café, ainsi que l’huile
@@ -172,3 +172,35 @@ Etapes :
 9. Enfourner 25 mn à 170 degrés
 10. Laisser tiédir avant de démouler
 11. Saupoudrer de sucre glace
+
+### Chili sin carne d'Olivier ###
+
+Source : https://cuisine-addict.com/chili-sin-carne-vegetarien/
+
+Ingrédients pour 4 personnes :
+- 400 g tomates concassées
+- 2 carottes
+- 100 g champignons de Paris  
+- 50 g poivrons marinés  
+- 50 g lentilles corail  
+- 50 g quinoa  
+- 200 g haricots rouges cuits  
+- 50 g maïs doux  
+- 20 cl bouillon de légumes  
+- 1 oignon jaune  
+- 4 gousses ail  
+- 1 petit piment vert facultatif  
+- huile d'olive  
+- 1 cs sauce Worcestershire  
+- 1 cs cumin moulu  
+- 1 cc coriandre moulue  
+- 1 cc graines de moutarde  
+- sel et poivre  
+
+Étapes :
+1. Faites cuire les lentilles corail et le quinoa dans de l'eau bouillante légèrement salée pendant 10 minutes. Egouttez et réservez.  
+2. Pelez les oignons et ciselez-les finement. Pelez et dégermez les gousses d'ail puis écrasez-les du plat du couteau. Epluchez les carottes et coupez-les en petits dés (brunoise). Nettoyez les champignons et coupez-les en lamelles.  
+3. Mettez un peu d'huile d'olive dans une cocotte et faites-y revenir l'oignon. Ajoutez les gousses d'ail, les carottes en dés, les lanières de poivrons marinés, les champignons émincés et le piment vert coupé si vous souhaitez en mettre. Laissez cuire à feu vif pendant quelques minutes en remuant.  
+4. Ajoutez les tomates concassées, le bouillon de légumes, les haricots rouges, le maïs, les lentilles et le quinoa cuits. Assaisonnez avec les épices, la sauce Worcestershire, du sel et du poivre. Mélangez bien et laissez mijoter à feu doux et à couvert pendant 20 minutes.  
+
+5. Servez avec du riz.
