@@ -26,6 +26,7 @@ Nous nous tenons à votre disposition pour tout renseignement complémentaire.
 Dans l’attente de votre retour, veuillez agréer l’expression de nos salutations respectueuses.
 
 | Hervé Cellard  | Olivier Barrier  |
+| :-------------------------------- |:-----------------------------------------------|
 | Militant associatif | Archipel Citoyen |
 | Garant de la Convention Citoyenne | pour l’organisation de la Convention Citoyenne |
 | herve.cellard@orange.fr | evenements@archipelcitoyen.org |
