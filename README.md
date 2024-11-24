@@ -23,6 +23,8 @@ Cliquer sur 📺 pour accéder à la vidéo et 🖥️ pour la présentation
 ### Session 3 - samedi 7 décembre 2024
 
 
+Nous avons relancé Toulouse Métropole et Tisséo pour solliciter leur participation.
+[Les courriels adressés par l'organisation à l'assemblée sont ici](courrielsalassemblee.md)
 ## La préparation de l'évènement
 
 📄 La [description générale du projet](generalitees.md)  
