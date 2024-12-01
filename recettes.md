@@ -173,7 +173,7 @@ Ingrédients pour 6 personnes :
 10. Laisser tiédir avant de démouler
 11. Saupoudrer de sucre glace
 
-### Chili sin carne d'Olivier ###
+### Chili sin carne d'Olivier
 
 Source : https://cuisine-addict.com/chili-sin-carne-vegetarien/
 
@@ -203,3 +203,20 @@ Ingrédients pour 4 personnes :
 3. Mettez un peu d'huile d'olive dans une cocotte et faites-y revenir l'oignon. Ajoutez les gousses d'ail, les carottes en dés, les lanières de poivrons marinés, les champignons émincés et le piment vert coupé si vous souhaitez en mettre. Laissez cuire à feu vif pendant quelques minutes en remuant.
 4. Ajoutez les tomates concassées, le bouillon de légumes, les haricots rouges, le maïs, les lentilles et le quinoa cuits. Assaisonnez avec les épices, la sauce Worcestershire, du sel et du poivre. Mélangez bien et laissez mijoter à feu doux et à couvert pendant 20 minutes.
 5. Servez avec du riz.
+
+### Gâteau patate de Seb
+
+Ingrédients :
+- 600 g de patate douce cuites (j'aime bien à la vapeur)
+- 100 g de beurre
+- 70 à 100 g de sucre selon votre préférence
+- 2 oeufs
+- ½ gousse de vanille (ou sinon poudre et/ou arôme mais c'est moins bien)
+- 50 g de farine
+- 1 bouchon de rhum ambré (facultatif, blanc marche aussi)
+
+Instructions :
+1. Cuire les patates épluchées et coupées en dés à la vapeur ou à l’eau, égouttez les et écrasez au presse purée (ou à la fourchette)
+2. Ajouter le beurre fondu, les oeufs, le sucre, le rhum, la vanille et la farine
+3. Verser dans un moule (idéalement de 18 cm), on peut faire des traits avec une fourchette sur le dessus
+4. Enfourner 45 min à 180°C.
