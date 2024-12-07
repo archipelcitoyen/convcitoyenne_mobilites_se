@@ -28,6 +28,9 @@ Facilitation par Julie & Maxime.
 
 ### Session 3 - samedi 7 décembre 2024
 
+[Nous avons relancé Toulouse Métropole et Tisséo pour solliciter leur participation](TM_Tisse.md).  
+[Les courriels adressés par l'organisation à l'assemblée sont ici](courrielsalassemblee.md).  
+
 Facilitation par Julie & Jonas.  
 
 [📺]() [🖥️](https://drive.google.com/file/d/1gcKZjeWZ5Y-zbTXVBEQ4jL0tRO83zumD/view?usp=sharing) - #1 - Nicolas Monrolin  - Collectif Non à la jonction EST [X min]  
@@ -35,9 +38,6 @@ Facilitation par Julie & Jonas.
 [📺]() [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #3 - Theo Sigiscar - Adaption au changement climatique [X min]  
 🥗🥖 Repas partagé.
 💬 Cercle de discussion avec les associations de quartier, avec Citiz, XXX, XXX, XXX.
-
-[Nous avons relancé Toulouse Métropole et Tisséo pour solliciter leur participation](TM_Tisse.md).  
-[Les courriels adressés par l'organisation à l'assemblée sont ici](courrielsalassemblee.md).  
 
 ## La préparation de l'évènement
 
