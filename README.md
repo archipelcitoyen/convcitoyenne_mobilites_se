@@ -12,6 +12,7 @@ Facilitation par Julie & Paul.
 [📺](https://youtu.be/TRAZoPWEJOo) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #2 - Sébastien - Dynamiques de population [10 min]  
 [📺](https://youtu.be/V_F8ehKChvo) [🖥️](https://docs.google.com/presentation/d/1EROK8DyP6qT_u4Wt1u5FCID2kk7Fnuyip31o9aefZXM/edit?usp=sharing) - #3 - Olivier Barrier - Infrastructure automobile [18 min]  
 [📺](https://youtu.be/e42VSnqtfYY) [🖥️](https://drive.google.com/file/d/1cTQ80KpO3_rPG_ppuIS8edBJtgfLB1Dh/view?usp=sharing) - #4 - Nicole Asencio (AUTATE) - Les transports en commun [20 min]  
+🥗🥖 Repas partagé.
 
 ### Session 2 - dimanche 17 novembre 2024
 
@@ -19,6 +20,7 @@ Facilitation par Julie & Maxime.
 
 [📺](https://youtu.be/zPMTAFo-Y4g) [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #1 - Claire Debesses - 2p2r - Modes actifs [25 min]  
 [📺](https://youtu.be/JAQwYbIcveE) [🖥️](https://docs.google.com/presentation/d/1j9OB87irwMeFfGWV-odYkMTtidoRsCeJHCRGRGLgZ1c/edit?usp=drive_link) - #2 - Benoit - Rallumons l'étoile [25 min]  
+🥗🥖 Repas partagé.
 [✖️]() [🖥️](https://docs.google.com/presentation/d/1iF__m70cmH70Tx6sWIQtviH1ELZ4YI7q0rmNgYHXXaU/edit?usp=drive_link) - #3 - Alice - Climat  
 [✖️]() [🖥️](https://docs.google.com/presentation/d/13aFqbv1oIt6ZhWGXDjgoqV0xKYyo0J32/edit?usp=drive_link&ouid=117797709285819815547&rtpof=true&sd=true) - #4 - Paul Castagné - Biodiversité  
 [📺](https://www.youtube.com/watch?v=cC9jh3kvfnw) [🖥️](https://drive.google.com/file/d/1emE5KNmyvRx24lhHZa3XgaxUQGSuvEaq/view?usp=drive_link) - #5 - Aurélien Bigo (vidéo) - Transition des mobilités [63 min]  
@@ -31,7 +33,8 @@ Facilitation par Julie & Jonas.
 [📺]() [🖥️](https://drive.google.com/file/d/1gcKZjeWZ5Y-zbTXVBEQ4jL0tRO83zumD/view?usp=sharing) - #1 - Nicolas Monrolin  - Collectif Non à la jonction EST [X min]  
 [📺]() [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #2 - Fabrice Clerfeuille - Professionnel des aménagement de mobilité [X min]  
 [📺]() [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #3 - Theo Sigiscar - Professionnel de l'adaption au changement climatique [X min]  
-
+🥗🥖 Repas partagé.
+💬 Cercle de discussion avec les associations de quartier, avec Citiz, XXX, XXX, XXX.
 
 [Nous avons relancé Toulouse Métropole et Tisséo pour solliciter leur participation](TM_Tisse.md).  
 [Les courriels adressés par l'organisation à l'assemblée sont ici](courrielsalassemblee.md).  
