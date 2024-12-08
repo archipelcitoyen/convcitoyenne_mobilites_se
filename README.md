@@ -5,8 +5,19 @@ Nous partageons en dessous les vidéos des présentations, mais il est important
 Cliquer sur 📺 pour accéder à la vidéo et 🖥️ pour la présentation  
 
 ### Session 1 - mercredi 6 novembre 2024 - 18:22h
-
-Facilitation par Julie & Paul.  
+Déroulé
+   18H-18H15 : Accueil
+   18h15-18h30 : Introduction
+   18H30 - 18h45 : Cadre / Accords de groupe
+   18h45 - 19h15 : Interconnaissance
+   19H15 - 20H15 : Interventions d’experts
+      \- \* (Pierre, Sébastien, Nicolas) : Urbanisation
+      \- \* (Olivier) : Projets d’infra routière (JE, M2, M16)
+      \- Autate (Nicole) : Transports en commun du Sud-Est de Toulouse
+   20h15-20h45 : Pause repas
+   20h45 - 21h15 : Temps d’échange
+   21H15 – 21H30 : Conclusion
+Facilitation par Julie et Paul.  
 
 [📺](https://youtu.be/EgCQEZ13DaM) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #1 - Pierre Cambon - PDU et PLUiH [10 min]  
 [📺](https://youtu.be/TRAZoPWEJOo) [🖥️](https://docs.google.com/presentation/d/1OBhCARwpY3mjr3Xj5W5ssv3X8b0jKLUta8qr7-_TUpY/edit?usp=sharing) - #2 - Sébastien - Dynamiques de population [10 min]  
@@ -15,8 +26,28 @@ Facilitation par Julie & Paul.
 🥗🥖 Repas partagé.  
 
 ### Session 2 - dimanche 17 novembre 2024
-
-Facilitation par Julie & Maxime.  
+Déroulé
+   9H30 : Accueil
+   9H45 : Inclusion et frigo (depuis la dernière fois quelles sont les questions qui me restent / me sont venues ?)
+   10H : Suite de la présentation des experts par mode
+      Métro et ferroviaire : Rallumons l’étoile (Benoît)
+      Vélo : 2P2R  (Claire)
+   10h50 - 11h : Pause
+   11H - 12H : Consolidation par classe inversée
+   12H - 13H : Repas
+   13H - 14H : Experts
+      « mouvement climat » (Alice) : Les enjeux climat
+      Écologue (Paul) : Les enjeux de la préservation de la biodiversité
+   14h - 14h30 : Production : quelle seront les têtes de chapitre du rendu final ? Comment s’y prendre pour rédiger le rapport ?  Format : cercle samoan
+   14h30 - 15h30 : Expert
+      Chercheur sur les mobilités (Aurélien Bigo) : Les mobilités
+      Discussion avec Olivier Lefebvre
+   15H30 - 15h45 : Pause
+   15H45 - 16h30 : Expert
+      Shifters (Matthieu, Nicolas) : Comment réorienter les mobilités du SE Toulousain vers une économie bas carbone ?
+   16h30 - 16h50 : Devoir à la maison : comment on se partage les tâches à faire entre membres du collectif.
+   16h50 : Déclusion - Ressentis
+Facilitation par Julie et Max.  
 
 [📺](https://youtu.be/zPMTAFo-Y4g) [🖥️](https://drive.google.com/file/d/1rv7b2HVEhQpRwfdAcgXqHOS8tm9rl6iw/view?usp=drive_link) - #1 - Claire Debesses - 2p2r - Modes actifs [25 min]  
 [📺](https://youtu.be/JAQwYbIcveE) [🖥️](https://docs.google.com/presentation/d/1j9OB87irwMeFfGWV-odYkMTtidoRsCeJHCRGRGLgZ1c/edit?usp=drive_link) - #2 - Benoit - Rallumons l'étoile [25 min]  
@@ -27,6 +58,24 @@ Facilitation par Julie & Maxime.
 [✖️]() [🖥️](https://docs.google.com/presentation/d/1aRQXQGhkKpR3QUtvAnWMTmfpu3GNaRVY/edit?usp=drive_link&ouid=117797709285819815547&rtpof=true&sd=true) - #6 - Nicolas Kolf - Shifters - Mobilité du quotidien
 
 ### Session 3 - samedi 7 décembre 2024
+Déroulé
+   9H30 - 9h40 : Accueil
+   9H40 - 9h50 : Inclusion
+   9h50 - 10h30 : Expert
+      Collectif non à la Jonction Est (Nicolas) : présentation du projet de Jonction Est et expertise citoyenne du collectif
+   10h30 - 11h15 : Expert intervenant à partir de travaux du Cerema
+      \* (Fabrice) : Mobilités : pourquoi faut-il favoriser le report modal (à Toulouse comme ailleurs) ?
+   \* (Théo) : Les urbanistes : médecins de demain ? - Comment l'aménagement du territoire permet de favoriser ou non la santé de la population ?
+   11h15 - 11h30 : Pause
+   11h30 - 13h : Production collective
+   13h - 14h : Repas partagé
+   14h - 15h :  Table ronde avec les 8 assos de quartier
+   15h-15h15 : Pause
+   15h15-16h30 : Production collective
+   16h30 - 17h : Conclusion et déclusion
+   17H : Mot de clôture de l’organisation et pot de fin.
+Facilitation : Julie et Jonas
+
 
 [Nous avons relancé Toulouse Métropole et Tisséo pour solliciter leur participation](TM_Tisse.md).  
 [Les courriels adressés par l'organisation à l'assemblée sont ici](courrielsalassemblee.md).  
