@@ -41,7 +41,8 @@ Facilitation par Julie et Max.
 [📺](https://www.youtube.com/watch?v=cC9jh3kvfnw) [🖥️](https://drive.google.com/file/d/1emE5KNmyvRx24lhHZa3XgaxUQGSuvEaq/view?usp=drive_link) - #5 - Aurélien Bigo (vidéo) - Transition des mobilités [63 min]  
 💬 Discussion avec Olivier Lefebvre  
 15H30 - 15h45 : Pause  
-15H45 - 16h30 : [✖️]() [🖥️](https://docs.google.com/presentation/d/1aRQXQGhkKpR3QUtvAnWMTmfpu3GNaRVY/edit?usp=drive_link&ouid=117797709285819815547&rtpof=true&sd=true) - #6 - Nicolas Kolf - Shifters - Comment réorienter les mobilités du SE Toulousain vers une économie bas carbone ?  
+15H45 - 16h30 :  
+[✖️]() [🖥️](https://docs.google.com/presentation/d/1aRQXQGhkKpR3QUtvAnWMTmfpu3GNaRVY/edit?usp=drive_link&ouid=117797709285819815547&rtpof=true&sd=true) - #6 - Nicolas Kolf - Shifters - Comment réorienter les mobilités du SE Toulousain vers une économie bas carbone ?  
 16h30 - 16h50 : 💭 Devoir à la maison : comment on se partage les tâches à faire entre membres du collectif.  
 16h50 : 🤗 Déclusion - Ressentis  
 
