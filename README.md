@@ -76,7 +76,7 @@ Facilitation par Julie & Jonas.
 🙋 Une [Foire Aux Questions](faq.md)  
 🔄 [Où nous en sommes](suivi.md)  
 🪄 [Les membres de l'assemblée citoyenne](assemblee.md)  
-🧑‍🔬 [Les expert·e·s sollicité·e·s](experts.md)
+🧑‍🔬 Les expert·e·s [sollicité·e·s au départ](experts.md) et une [liste de qui est finalement intervenu ou presque](experts_intervenus.md)
 
 Pour ceux que ça intéresse, nous mettrons tous nos outils à disposition :  
 🎯 Le [petit bout de code](geotirage.ipynb) utilisé pour le tirage au sort  
