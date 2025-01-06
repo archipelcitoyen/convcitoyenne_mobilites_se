@@ -1,3 +1,5 @@
+L'[avis de la Convention Citoyenne sur la Jonction Est]() déposé dans le cadre de l'enquête publique et remis au commissaire enquêteur. 
+
 ## La convention citoyenne
 
 Nous partageons en dessous les vidéos des présentations, mais il est important de noter que les sessions de l'assemblée sont bien plus que cela. C'est un moment partagé, avec des sessions de facilitation visant à ce que les membres de l'assemblée se sentent à l'aise pour s'exprimer, quelles que soient leurs opinions, et forment un groupe constructif et bienveillant. Ces moments ne peuvent pas être fidèlement retranscrits et documentés ici.
